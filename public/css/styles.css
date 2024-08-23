@@ -1,0 +1,16 @@
+body {
+    background-color: #fffdd0; /* Cream color */
+}
+
+h1, h3 {
+    color: #343a40;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.menu-item {
+    margin-right: 10px;
+}
